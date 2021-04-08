@@ -8,5 +8,5 @@ def dif(num_1,num_2):
         che=num_1-num_2
         # print("difference is:",che)
         return che
-dif(5,10)
-print()
+# dif(5,10)
+# print()
